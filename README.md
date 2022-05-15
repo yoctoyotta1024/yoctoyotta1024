@@ -18,7 +18,7 @@
 
 ### Here are some useful coding resources I've appreciated:
 
-Python: Book called _Python Crash Course: A Hands-On, Project-Based Introduction to Programming_ by Eric Matthes
+Python: _Python Crash Course: A Hands-On, Project-Based Introduction to Programming_ Book by Eric Matthes
 
 C++: https://matt.sh/howto-c by Matt Stancliff 
 
