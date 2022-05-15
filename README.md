@@ -4,15 +4,6 @@
 **yoctoyotta1024/yoctoyotta1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 - 🔭 I’m currently doing a climate physics PHD
@@ -22,10 +13,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything (I might not know the answer though...)
 - 📫 How to reach me: through github?
 - 😄 Pronouns: guess!
-- ⚡ Fun fact: yocto = 10^(-24), yotta = 10^(24), yoctoyotta1024 = me (:
+- ⚡ Fun fact: yocto = 10<sup>-24</sup>, yotta = 10<sup>24</sup>, yoctoyotta1024 = me (:
 
 
-Some useful coding resources I've appreciated:
+
+Here are some useful coding resources I've appreciated:
 
 Python: "Python Crash Course: A Hands-On, Project-Based Introduction to Programming" Book by Eric Matthes
 
