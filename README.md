@@ -2,9 +2,8 @@
 
 <!--
 **yoctoyotta1024/yoctoyotta1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 -->
+
 
 - 🔭 I’m currently doing a climate physics PHD
 - 🌱 I’m currently learning coding and climate physics
@@ -15,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: guess!
 - ⚡ Fun fact: yocto = 10<sup>-24</sup>, yotta = 10<sup>24</sup>, yoctoyotta1024 = me (:
 
+<br/>
 
-
-Here are some useful coding resources I've appreciated:
+### Here are some useful coding resources I've appreciated:
 
 Python: "Python Crash Course: A Hands-On, Project-Based Introduction to Programming" Book by Eric Matthes
 
@@ -29,4 +28,4 @@ Conda: https://docs.conda.io/ by conda (see very useful cheatsheet)
 
 Git & Github: https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners by Meghan Nelson
 
-
+Markdown: https://www.w3schools.io/file/markdown-introduction/ by w3schools
