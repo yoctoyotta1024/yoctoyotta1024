@@ -31,7 +31,7 @@ Git & Github: https://swcarpentry.github.io/git-novice/, but also https://rubyga
 
 Markdown: https://www.w3schools.io/file/markdown-introduction/ by w3schools
 
-Climate research tools:
+#### Climate research tools:
 - xarray tutorial:  https://tutorial.xarray.dev/intro.html
 - python for data analysis https://wesmckinney.com/book/
 - pangeo: https://pangeo.io/#ecosystem
