@@ -26,7 +26,13 @@ Julia: https://www.youtube.com/watch?v=Fi7Pf2NveH0 by George Datseris
 
 Conda: https://docs.conda.io/ by conda (see very useful cheatsheet)
 
-Git & Github: https://rubygarage.org/blog/most-basic-git-commands-with-examples by Sviatoslav A,  
+Git & Github: https://swcarpentry.github.io/git-novice/, but also https://rubygarage.org/blog/most-basic-git-commands-with-examples by Sviatoslav A,  
               and this DKRZ Tech Talk: https://www.youtube.com/watch?v=zT6gC8iWOc8 by Wilton Loch, Pradipta Samanta and Georgiana Mania
 
 Markdown: https://www.w3schools.io/file/markdown-introduction/ by w3schools
+
+Climate research tools:
+- xarray tutorial:  https://tutorial.xarray.dev/intro.html
+- python for data analysis https://wesmckinney.com/book/
+- pangeo: https://pangeo.io/#ecosystem
+- easy.gems: https://easy.gems.dkrz.de/
