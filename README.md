@@ -18,18 +18,18 @@
 
 ### Here are some useful coding resources I've appreciated:
 
-Python: _Python Crash Course: A Hands-On, Project-Based Introduction to Programming_ Book by Eric Matthes
+- Python: _Python Crash Course: A Hands-On, Project-Based Introduction to Programming_ Book by Eric Matthes
 
-C++: https://matt.sh/howto-c by Matt Stancliff 
+- C++: https://matt.sh/howto-c by Matt Stancliff 
 
-Julia: https://www.youtube.com/watch?v=Fi7Pf2NveH0 by George Datseris
+- Julia: https://www.youtube.com/watch?v=Fi7Pf2NveH0 by George Datseris
 
-Conda: https://docs.conda.io/ by conda (see very useful cheatsheet)
+- Conda: https://docs.conda.io/ by conda (see very useful cheatsheet)
 
-Git & Github: https://swcarpentry.github.io/git-novice/, but also https://rubygarage.org/blog/most-basic-git-commands-with-examples by Sviatoslav A,  
+- Git & Github: https://swcarpentry.github.io/git-novice/, but also https://rubygarage.org/blog/most-basic-git-commands-with-examples by Sviatoslav A,  
               and this DKRZ Tech Talk: https://www.youtube.com/watch?v=zT6gC8iWOc8 by Wilton Loch, Pradipta Samanta and Georgiana Mania
 
-Markdown: https://www.w3schools.io/file/markdown-introduction/ by w3schools
+- Markdown: https://www.w3schools.io/file/markdown-introduction/ by w3schools
 
 #### Climate research tools:
 - xarray tutorial:  https://tutorial.xarray.dev/intro.html
