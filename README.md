@@ -12,7 +12,7 @@
 - 💬 Feel free to contact me
 - 📫 How to reach me: GitHub or email
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: yocto = 10<sup>-24</sup>, yotta = 10<sup>24</sup> => yoctoyotta1024 = 1024 (:
+- ⚡ Fun fact: yocto = 10<sup>-24</sup>, yotta = 10<sup>24</sup> (:
 
 <br/>
 
