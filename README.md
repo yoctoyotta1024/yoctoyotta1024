@@ -9,10 +9,10 @@
 - 🌱 I’m currently learning coding and climate physics
 - 👯 I’m open to collaboration
 - 🤔 I’m looking for any helpful advice, tips & tricks
-- 💬 Ask me about anything (I might not know the answer though...)
-- 📫 How to reach me: through github?
-- 😄 Pronouns: guess!
-- ⚡ Fun fact: yocto = 10<sup>-24</sup>, yotta = 10<sup>24</sup>, yoctoyotta1024 = me (:
+- 💬 Feel free to contact me
+- 📫 How to reach me: GitHub or email
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: yocto = 10<sup>-24</sup>, yotta = 10<sup>24</sup> => yoctoyotta1024 = 1024 (:
 
 <br/>
 
